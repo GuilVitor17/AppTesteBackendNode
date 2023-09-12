@@ -1,0 +1,26 @@
+[
+  {
+    "modelo": "4",
+    "anoFabricacao": 4,
+    "quantidadePortas": 5,
+    "marca": "fiat"
+  },
+  {
+    "modelo": "Moto",
+    "anoFabricacao": 2020,
+    "quantidadePortas": 4,
+    "marca": "Honda"
+  },
+  {
+    "modelo": "",
+    "anoFabricacao": 0,
+    "quantidadePortas": 0,
+    "marca": ""
+  },
+  {
+    "modelo": "Honda",
+    "anoFabricacao": 2005,
+    "quantidadePortas": 2,
+    "marca": "Honda"
+  }
+]
